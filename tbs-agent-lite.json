@@ -1,0 +1,8 @@
+    {
+        "name": "TBS Agent Lite",
+        "description": "Configure TBS products using only your radio.",
+        "filename": "https://www.team-blacksheep.com/tbs-agent-lite.zip",
+        "infourl": "https://www.team-blacksheep.com/products/prod:agentx",
+        "default": false,
+        "official": false
+    },
