@@ -1,0 +1,8 @@
+    {
+        "name": "ExpressLRS Lua V2",
+        "description": "Configure ExpressLRS Modules and Receivers running v2 firmware.",
+        "filename": "https://raw.githubusercontent.com/ExpressLRS/ExpressLRS/master/src/lua/elrsV2.lua",
+        "infourl": "https://www.expresslrs.org/2.0/quick-start/lua-howto/",
+        "default": false,
+        "official": false
+    },
