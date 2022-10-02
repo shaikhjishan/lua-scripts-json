@@ -1,0 +1,8 @@
+    {
+        "name": "Betaflight Lua Scripts",
+        "description": "Configure PIDs, Rates, and more on your Betaflight quad.",
+        "filename": "https://github.com/betaflight/betaflight-tx-lua-scripts/releases/download/1.5.0/betaflight-tx-lua-scripts_1.5.0.zip",
+        "infourl": "https://github.com/betaflight/betaflight-tx-lua-scripts",
+        "default": false,
+        "official": false
+    }
