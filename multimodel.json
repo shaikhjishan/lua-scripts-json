@@ -1,0 +1,8 @@
+    {
+        "name": "Multi-Module Lua Scripts",
+        "description": "Configure Internal or External Multiprotocol modules.",
+        "filename": "https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/releases/download/v1.3.3.0/MultiLuaScripts.zip",
+        "infourl": "https://github.com/pascallanger/DIY-Multiprotocol-TX-Module",
+        "default": true,
+        "official": false
+    },
